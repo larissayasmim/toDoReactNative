@@ -61,7 +61,7 @@ This project was developed with the following technologies:
 <br>
 
 ## :page_with_curl: &nbsp; License
-This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/toDoReactNative/blob/main/LICENCE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/larissayasmim/toDoReactNative/blob/main/LICENSE) for more information.
 
 <br>
 
